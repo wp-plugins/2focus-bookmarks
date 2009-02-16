@@ -1,0 +1,100 @@
+.bookmark{
+float:left;
+width:100%;
+}
+
+.big{
+float:left; height:40px; width:40px;
+}
+
+a#digg:hover{
+	background: url(images/b_digg_c.png) 0 0 no-repeat;
+}
+a#digg{
+	background: url(images/b_digg_grey.png) 0 0 no-repeat;
+}
+a#bobrdobr:hover{
+	background: url(images/b_bobrdobr_c.png) 0 0 no-repeat;
+}
+a#bobrdobr{
+	background: url(images/b_bobrdobr_grey.png) 0 0 no-repeat;
+}
+a#reddit{
+	background: url(images/b_reddit_grey.png) 0 0 no-repeat;
+}
+a#reddit:hover{
+	background: url(images/b_reddit_c.png) 0 0 no-repeat;
+}
+a#delicious:hover{
+	background: url(images/b_delicious_c.png) 0 0 no-repeat;
+}
+a#delicious{
+	background: url(images/b_delicious_grey.png) 0 0 no-repeat;
+}
+a#google:hover{
+	background: url(images/b_google_c.png) 0 0 no-repeat;
+}
+a#google{
+	background: url(images/b_google_grey.png) 0 0 no-repeat;
+}
+a#memori:hover{
+	background: url(images/b_memori_c.png) 0 0 no-repeat;
+}
+a#memori{
+	background: url(images/b_memori_grey.png) 0 0 no-repeat;
+}
+a#moemesto:hover{
+	background: url(images/b_moemesto_c.png) 0 0 no-repeat;
+}
+a#moemesto{
+	background: url(images/b_moemesto_grey.png) 0 0 no-repeat;
+}
+a#rumarkz:hover{
+	background: url(images/b_rumarkz_c.png) 0 0 no-repeat;
+}
+a#rumarkz{
+	background: url(images/b_rumarkz_grey.png) 0 0 no-repeat;
+}
+a#technorati:hover{
+	background: url(images/b_technorati_c.png) 0 0 no-repeat;
+}
+a#technorati{
+	background: url(images/b_technorati_grey.png) 0 0 no-repeat;
+}
+
+a#mrwong:hover{
+	background: url(images/b_wong_c.png) 0 0 no-repeat;
+}
+a#mrwong{
+	background: url(images/b_wong_grey.png) 0 0 no-repeat;
+}
+a#news2ru:hover{
+	background: url(images/b_news2_c.png) 0 0 no-repeat;
+}
+a#news2ru{
+	background: url(images/b_news2_grey.png) 0 0 no-repeat;
+}
+a#focus:hover{
+	background: url(images/b_2focus_c.png) 0 0 no-repeat;
+}
+a#focus{
+	background: url(images/b_2focus_grey.png) 0 0 no-repeat;
+}
+a#yandex:hover{
+	background: url(images/b_yandex_c.png) 0 0 no-repeat;
+}
+a#yandex{
+	background: url(images/b_yandex_grey.png) 0 0 no-repeat;
+}
+a#magnolia:hover{
+	background: url(images/b_magnolia_c.png) 0 0 no-repeat;
+}
+a#magnolia{
+	background: url(images/b_magnolia_grey.png) 0 0 no-repeat;
+}
+a#vaau:hover{
+	background: url(images/b_vaau_c.png) 0 0 no-repeat;
+}
+a#vaau{
+	background: url(images/b_vaau_grey.png) 0 0 no-repeat;
+}
